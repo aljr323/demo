@@ -1,6 +1,9 @@
-name: Node CI
+name: Node CI Renewed
 
-on: [push, pull_request]
+on:
+  pull_request:
+    branches:
+    - master
 
 jobs:
   Build:
