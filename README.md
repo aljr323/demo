@@ -1,4 +1,4 @@
-![](https://github.com/thejoebourneidentity/demo/workflows/Joe%20CI/badge.svg)
+![](https://github.com/thejoebourneidentity/demo/workflows/CI%20Joe/badge.svg)
 
 # Dreamlifter playground
 Dreamlifter is the internal codename for Actions v2 - a major upgrade to bring powerful CI functionality to GitHub Actions.

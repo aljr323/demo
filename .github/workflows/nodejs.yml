@@ -1,4 +1,4 @@
-name: Joe CI
+name: CI Joe
 
 on:
   pull_request:
