@@ -1,4 +1,4 @@
-name: Node CI Renewed
+name: Joe CI
 
 on:
   pull_request:
