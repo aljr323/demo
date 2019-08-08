@@ -3,9 +3,13 @@ name: Node CI
 on: [push, pull_request]
 
 jobs:
-  build:
+  Build:
+    name: Test this Demo
 
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest, macOS-latest]
 
     steps:
     - uses: actions/checkout@master
