@@ -25,7 +25,3 @@ jobs:
         npm install
         npm run build --if-present
         npm test
-    - name: Testing Manual Inputs
-      run: |
-        echo "First Input: ${{ github.event.inputs.myFirstInput }}"
-        echo "Second Input: ${{ github.event.inputs.mySecondInput }}" 
