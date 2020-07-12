@@ -1,4 +1,4 @@
-![](https://github.com/thejoebourneidentity/demo/workflows/CI%20Joe/badge.svg)
+![](https://github.com/thejoebourneidentity/demo/workflows/CI/badge.svg)
 
 ## Sample project
 This repo contains a sample NodeJS application taken from https://github.com/MicrosoftDocs/pipelines-javascript.
