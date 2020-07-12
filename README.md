@@ -1,10 +1,5 @@
 ![](https://github.com/thejoebourneidentity/demo/workflows/CI%20Joe/badge.svg)
 
-# Dreamlifter playground
-Dreamlifter is the internal codename for Actions v2 - a major upgrade to bring powerful CI functionality to GitHub Actions.
-
-This repo is a playground for all Hubbers to test out Actions v2. Feel free to create a branch and test things out!
-
 ## Sample project
 This repo contains a sample NodeJS application taken from https://github.com/MicrosoftDocs/pipelines-javascript.
 
