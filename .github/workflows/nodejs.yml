@@ -4,18 +4,6 @@ on:
   pull_request:
     branches:
     - master
-  push:
-    branches:
-    - master
-  
-  workflow_dispatch:
-    inputs:
-      myFirstInput:
-        description: 'First Input'     
-        required: true
-        default: 'code to cloud!'
-      mySecondInput:
-        description: 'Second Input'  
 
 jobs:
   Build:
